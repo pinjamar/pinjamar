@@ -31,7 +31,7 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-**⚙️ Backend / Tools**
+**⚙️ Backend / Tools & 🛢 Databases**
 <br/>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
@@ -39,23 +39,13 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000)
 
-**🛢 Databases**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
 ---
 
-<h3>🚦 GitHub Stats</h3>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=pinjamar&theme=onedark&no-frame=true&margin-w=8" />
-</p>
+### 🚦 Stats
 
 <p align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinjamar&theme=github-compact&hide_border=true" />
 </p>
-
 
 ---
 
