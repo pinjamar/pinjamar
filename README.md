@@ -3,61 +3,78 @@
   ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
 ◢◤ █▀▀████▄▄▄▄▄▄▄◢◤            ● ● ● ▄▄▄▄▄▄▄████▮                ╫       █████████
 █   IVAN'S GITHUB █▀▀▀▀╬            ▂▃▄▅████▀▀▀████▅▄            ╫    ▟██⍁██⍁██⍁███▙
-◥█████████◤                       ▄█████ FRONTEND █████▄       ▜████ LEARNING REACT ████▛
+◥█████████◤                       ▄█████ FRONTEND █████▄       ▜████ REACT & VITE ████▛
 ══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤         ▜███████████████████▛╬
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
-<h2> Hi there! I'm Ivan.</h2>
+<h2>Hi there! I'm Ivan 👋</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3>👨🏻‍💻 About Me</h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying many online courses about multiple Front-end development topics.
-- 💼 &nbsp; Working as a Web Developer on various freelance jobs.
-- 🌱 &nbsp; Learning more about Python, Data Analysis and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Crypto Research and Blog Writing as hobbies/side hustles.
+- 🤔 Exploring new technologies and building software solutions & quick hacks  
+- 🎓 Taking online courses on multiple Front-end development topics  
+- 💼 Working as a Web Developer on freelance projects  
+- 🌱 Learning more about Python, Data Analysis, and Artificial Intelligence  
+- ✍️ Into Crypto research & blog writing as a hobby/side hustle  
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+---
 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&logoColor=yellow)
-  ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=Node.js&logoColor=white)
+<h3>🛠 Tech Stack</h3>
 
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🖥 &nbsp;
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-  ![Vue.js](https://img.shields.io/badge/-Vuejs-4FC08D?style=flat&logo=vue.js&logoColor=white)
-  ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=Webpack&logoColor=gray)
-
+**🌐 Frontend**
 <br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 
-### 🚦 Stats
-
-<a href="https://github.com/pinjamar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pinjamar&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinjamar&theme=buefy&layout=compact" />
-</a>
-
-
+**⚙️ Backend / Tools**
 <br/>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-333333?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000)
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+**🛢 Databases**
+<br/>
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+---
+
+<h3>🚦 GitHub Stats</h3>
 
 <p align="left">
-<a href="https://pinjamar.github.io/personal-portfolio/"><img alt="Website" src="https://img.shields.io/badge/My%20Portfolio-gold?style=flat-rounded&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/ivan-pirija-1788a176/"><img alt="LinkedIn" src="https://img.shields.io/badge/Ivan%20Pirija%20-blue?style=flat-rounded&logo=linkedin"></a>
-<a href="mailto:pinjamar@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Pinjamar-pink?style=flat-rounded&logo=gmail"></a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pinjamar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinjamar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=pinjamar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h3>🤝🏻 Connect with Me</h3>
+
+<p align="left">
+  <a href="https://pinjamar.github.io/personal-portfolio/">
+    <img alt="Website" src="https://img.shields.io/badge/Portfolio-gold?style=flat&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ivan-pirija-1788a176/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivan%20Pirija-blue?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:pinjamar@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-pinjamar@gmail.com-pink?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
 
 ⭐️ From [pinjamar](https://github.com/pinjamar)
