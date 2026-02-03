@@ -28,8 +28,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript&logoColor=F7DF1E)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
 ![React](https://img.shields.io/badge/React-333333?style=flat&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
 **⚙️ Backend / Tools**
 <br/>
@@ -49,13 +49,13 @@
 <h3>🚦 GitHub Stats</h3>
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=pinjamar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pinjamar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pinjamar&theme=onedark&no-frame=true&margin-w=8" />
 </p>
 
 <p align="left">
-  <img height="165" src="https://streak-stats.demolab.com?user=pinjamar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pinjamar&theme=github-compact&hide_border=true" />
 </p>
+
 
 ---
 
