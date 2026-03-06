@@ -1,9 +1,10 @@
+<h1>Economist | Fintech Analyst | Developer</h1>
 ```
 ▬▬▬▬.◙.▬▬▬▬
   ▂▄▄▓▄▄▂                                                        ╫►►        ▁▁ ▓
 ◢◤ █▀▀████▄▄▄▄▄▄▄◢◤            ● ● ● ▄▄▄▄▄▄▄████▮                ╫       █████████
 █   IVAN'S GITHUB █▀▀▀▀╬            ▂▃▄▅████▀▀▀████▅▄            ╫    ▟██⍁██⍁██⍁███▙
-◥█████████◤                       ▄█████ FRONTEND █████▄       ▜████ REACT & VITE ████▛
+◥█████████◤                       ▄█████ FRONTEND █████▄       ▜████ REACT & ASTRO ████▛
 ══╩════╩══                         ◥⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲⊙▲◤         ▜███████████████████▛╬
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ```
@@ -11,13 +12,9 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-- 🤔 Exploring new technologies and building software solutions & quick hacks  
-- 🎓 Taking online courses on multiple Front-end development topics  
-- 💼 Working as a Web Developer on freelance projects  
-- 🌱 Learning more about Python, Data Analysis, and Artificial Intelligence  
-- ✍️ Into Crypto research & blog writing as a hobby/side hustle  
+Master's degree in Analysis and Business Planning, currently pursuing PhD in Financial Management. 10+ years of experience as a Business Analyst in various industries, with a focus on ERP implementations, financial analysis, and reporting. Professionally in crypto/fintech for the last 4 years, where I authored 30+ in-depth reports on blockchain ecosystems. Also a frontend developer with experience in React, Python (completed bootcamp), and tools like Power BI.
 
----
+Current Focus: Freelance projects in fintech, AI training, business analysis with programming. | Remote available
 
 <h3>🛠 Tech Stack</h3>
 
@@ -57,11 +54,9 @@
   <a href="https://pinjamar.github.io/personal-portfolio/">
     <img alt="Website" src="https://img.shields.io/badge/Portfolio-gold?style=flat&logo=google-chrome&logoColor=white" />
   </a>
-
   <a href="https://www.linkedin.com/in/ivan-pirija-1788a176/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivan%20Pirija-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-
   <a href="mailto:pinjamar@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-pinjamar@gmail.com-pink?style=flat&logo=gmail&logoColor=white" />
   </a>
