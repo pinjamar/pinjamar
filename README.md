@@ -1,4 +1,4 @@
-<h1>Economist | Fintech Analyst | Developer</h1>
+<h1>Economist | Fintech Analyst | Developer | Tester</h1>
 
 
 ```
@@ -14,9 +14,9 @@
 
 <h3>👨🏻‍💻 About Me</h3>
 
-Master's degree in Analysis and Business Planning, currently pursuing PhD in Financial Management. 10+ years of experience as a Business Analyst in various industries, with a focus on ERP implementations, financial analysis, and reporting. Professionally in crypto/fintech for the last 4 years, where I authored 30+ in-depth reports on blockchain ecosystems. Also a frontend developer with experience in React, Python (completed bootcamp), and tools like Power BI.
+Master's degree in Analysis and Business Planning, currently pursuing PhD in Financial Management. 10+ years of experience, first as a Business Analyst in various industries, with a focus on ERP implementations, later as a Product Engineer and Tester. Professionally in crypto/fintech for the last 4 years, where I authored 30+ in-depth reports on blockchain ecosystems. Also a frontend developer (as a hobby) and quality tester with experience in React, Python (completed bootcamp), and tools like Power BI. Lately use AI a lot within my solo projects do build some cool stuff. Especially proud of my thegrimoire.co fantasy library project.
 
-Current Focus: Freelance projects in fintech, AI training, business analysis with programming. | Remote available
+Current Focus: Freelance projects in fintech, AI training & testing, business analysis with programming. | Remote available
 
 <h3>🛠 Tech Stack</h3>
 
